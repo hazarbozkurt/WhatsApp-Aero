@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-1811939329" />
+    
+    <int name="ModChatLeftBubble" value="1174405120" />
+    <string name="Language">0</string>
+    <boolean name="yo_hideinfo" value="true" />
+    <int name="ModChatDarkColor" value="-16294316" />
+    <string name="tick_style">traffic</string>
+    <int name="ModChatGStatusB" value="-1879048193" />
+    <int name="ModConBackColor" value="-16777216" />
+    <boolean name="my_name" value="false" />
+    <int name="ModConDarkColor" value="-16294316" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModChatRightBubble" value="1308622848" />
+    <int name="ModChatTextColor" value="-16294316" />
+    <string name="ConvoEntry">5</string>
+    <boolean name="my_statusd" value="true" />
+    <int name="ModChatBubbleText" value="-16294316" />
+    <int name="ModlastseenColor" value="-1" />
+    <int name="ModConTextColor" value="-16294316" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <boolean name="Img_highres_btn" value="true" />
+    <int name="date_left_color" value="-16777216" />
+    <int name="ModChatEmojiColor" value="-16294316" />
+    <string name="HomeEntry">yowa</string>
+    <int name="ModDarkConPickColor" value="-16294316" />
+    <int name="ModChaSendColor" value="-16294316" />
+    <string name="bubble_style">apple</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-1" />
+    <int name="HomeBarText" value="-16777216" />
+    <int name="ModChatBubbleTextLeft" value="-16294316" />
+    <int name="date_right_color" value="-16777216" />
+    <boolean name="hide_fab" value="true" />
+    <int name="ModConPickBackColor" value="-16777216" />
+    <boolean name="AttBt" value="true" />
+    <int name="square_photo_ratio_picker" value="10" />
+</map>

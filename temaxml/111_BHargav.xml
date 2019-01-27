@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="BGColor" value="-1895825409" />
+    <string name="Language">0</string>
+    <boolean name="yo_hideinfo" value="true" />
+    <string name="tick_style">joaquins</string>
+    <boolean name="yoHidePlayG" value="true" />
+    <boolean name="yoHideReadB" value="true" />
+    <boolean name="extended_notifi" value="false" />
+    <boolean name="my_name" value="false" />
+    <boolean name="yoHideReadC" value="true" />
+    <int name="ModConPickBackColor" value="-397884" />
+    <int name="ModFabPressedColor" value="-13619152" />
+    <int name="ModConPickColor" value="-16764160" />
+    <int name="ModConColor" value="-16764160" />
+    <boolean name="Pop_Heds" value="true" />
+    <boolean name="my_statusd" value="true" />
+    <string name="ConvoEntry">3</string>
+    <boolean name="onlinechat" value="false" />
+    <int name="ModOnlineColor" value="-15859534" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="yoHideReadG" value="true" />
+    <int name="text_size_pick" value="15" />
+    <int name="ModConBackColor" value="-397884" />
+    <int name="ModChatDarkColor" value="-16764160" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="ModChatLeftBubble" value="-1560252160" />
+    <int name="ModChatRightBubble" value="-1426063361" />
+    <boolean name="Conv_call_btn" value="true" />
+    <boolean name="yoHidePlayB" value="true" />
+    <string name="bubble_style">in</string>
+    <int name="main_text" value="15" />
+    <boolean name="Img_quickcamhold" value="true" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="statuschat" value="false" />
+    <int name="ModChatGStatusB" value="1462775856" />
+    <int name="square_photo_ratio_picker" value="10" />
+    <boolean name="yoHideRecord" value="true" />
+    <int name="ModChatTextColor" value="-16745472" />
+    <boolean name="yoHidePlayC" value="true" />
+    <int name="ModDarkConPickColor" value="-16764160" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModConDarkColor" value="-16764160" />
+    <int name="ModChatMicColor" value="-16740608" />
+    <int name="ModlastseenColor" value="-16773722" />
+    <int name="ModFabNormalColor" value="-13350562" />
+    <int name="ModChatGStatusT" value="-1" />
+    <string name="convostyle">2</string>
+    <int name="ModConTextColor" value="-16148215" />
+    <boolean name="Img_highres_btn" value="true" />
+    <int name="ModChatEntry" value="-1308622849" />
+    <string name="HomeEntry">yowa</string>
+    <boolean name="yoHideSeen" value="true" />
+    <int name="ModChatBubbleText" value="-16743168" />
+    <int name="ModChatColor" value="-16764160" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <boolean name="Img_share_limit" value="true" />
+    <boolean name="AttBt" value="true" />
+</map>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="16777215" />
+    <int name="ModChatLeftBubble" value="-1577058305" />
+    
+    <int name="BGColor" value="16777215" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="ModChatDarkColor" value="-6996224" />
+    <string name="tick_style">materialv2</string>
+    <int name="ModChatGStatusB" value="-1862270977" />
+    <int name="ModConBackColor" value="-1" />
+    <int name="ModConDarkColor" value="-6996224" />
+    <int name="ModConColor" value="-6996224" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModChatRightBubble" value="-1617608960" />
+    <int name="ModChatTextColor" value="-6996224" />
+    <string name="ConvoEntry">1</string>
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModlastseenColor" value="-16777216" />
+    <int name="ModConTextColor" value="-6996224" />
+    <int name="ModChatGStatusT" value="-16777216" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <boolean name="Img_highres_btn" value="true" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="date_left_color" value="-16777216" />
+    <int name="ModChatEmojiColor" value="-6996224" />
+    <int name="ModDarkConPickColor" value="-6996224" />
+    <string name="HomeEntry">yowa</string>
+    <int name="ModChaSendColor" value="-6996224" />
+    <string name="bubble_style">twitter</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-16777216" />
+    <int name="ModConPickColor" value="-6996224" />
+    <int name="ModChatBubbleTextLeft" value="-6996224" />
+    <int name="HomeBarText" value="-16777216" />
+    <int name="ModChatBtnColor" value="-6996224" />
+    <int name="date_right_color" value="-16777216" />
+    <boolean name="Img_share_limit" value="true" />
+    <boolean name="hide_fab" value="true" />
+    <int name="ModConPickBackColor" value="-1" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-6996224" />
+</map>

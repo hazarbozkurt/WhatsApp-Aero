@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    
+    <int name="ModChatLeftBubble" value="-1428056576" />
+    <int name="BGColor" value="1442840576" />
+    <string name="Language">0</string>
+    <boolean name="yo_hideinfo" value="true" />
+    <int name="ModChatDarkColor" value="-14608896" />
+    <string name="tick_style">wbg</string>
+    <int name="ModChatGStatusB" value="2130706432" />
+    <boolean name="my_name" value="false" />
+    <int name="ModConColor" value="-14608896" />
+    <int name="ModChatRightBubble" value="-1157627904" />
+    <int name="ModChatTextColor" value="-16777216" />
+    <string name="ConvoEntry">5</string>
+    <boolean name="my_statusd" value="true" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <int name="ModChatBubbleText" value="-3110400" />
+    <int name="ModlastseenColor" value="-1" />
+    <boolean name="PicProf" value="false" />
+    <int name="text_size_pick" value="14" />
+    <int name="date_left_color" value="-22016" />
+    <int name="ModChaSendColor" value="-22272" />
+    <string name="bubble_style">dual</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-1" />
+    <int name="HomeBarText" value="-22272" />
+    <int name="ModChatBubbleTextLeft" value="-16777216" />
+    <int name="date_right_color" value="-22016" />
+    <boolean name="hide_fab" value="true" />
+    <int name="square_photo_ratio_picker" value="10" />
+    <int name="ModChatEntry" value="1128541440" />
+    <int name="ModConBackColor" value="-9013642" />
+    <int name="ModConDarkColor" value="-14608896" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModChatGStatusT" value="-88064" />
+    <int name="ModConTextColor" value="-22272" />
+    <string name="convostyle">3</string>
+    <boolean name="Img_highres_btn" value="true" />
+    <int name="ModChatEmojiColor" value="-22272" />
+    <string name="HomeEntry">yowa</string>
+    <int name="ModDarkConPickColor" value="-14608896" />
+    <int name="ModConPickColor" value="-14608896" />
+    <int name="ModChatBtnColor" value="-22272" />
+    <int name="ModConPickBackColor" value="-9013642" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-14608896" />
+</map>
